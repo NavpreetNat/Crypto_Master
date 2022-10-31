@@ -33,5 +33,7 @@ References:
 - https://robotwealth.com/fun-with-the-cryptocompare-api/
 - https://www.simplilearn.com/top-python-libraries-for-data-science-article#8_pytorch
 - https://scikit-learn.org/stable/
+- https://www.gemini.com/cryptopedia/dollar-cost-average-crypto-invest
+
 
 
