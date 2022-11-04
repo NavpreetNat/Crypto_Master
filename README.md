@@ -56,12 +56,12 @@
 
 * **1** [BTC Coin](https://www.barrons.com/articles/things-to-know-today-51666952850)
 
-* **2** [ETH Coin](Ethereum - https://www.dmarge.com/ethereum-price-prediction-aud)
+* **2** [ETH Coin](https://www.dmarge.com/ethereum-price-prediction-aud)
 
 * **3** [BNB Coin](https://play.google.com/store/apps/details?id=com.binance.dev&hl=en_AU&gl=US)
 
 * **4** [XRP Coin](https://cryptomode.com/3-reasons-to-use-the-xrp-toolkit-when-interacting-with-the-xrp-ledger/)
 
-* **5** [ADA Coin](Cardano - https://www.newsbtc.com/analysis/ada/why-cardano-ada-may-breakout-in-a-bull-run-to-1/)
+* **5** [ADA Coin](https://www.newsbtc.com/analysis/ada/why-cardano-ada-may-breakout-in-a-bull-run-to-1/)
 
 * **6** [SOL Coin](https://coinmarketcap.com/currencies/solana/)
