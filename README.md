@@ -6,11 +6,17 @@
 
 > FinTech Project 1
 
-### Introduction
+### Group Members
 
-### Coding
+Flora Zhao, Navpreet Nat and Sreeni Patnaik
 
-### Conclusions / Results
+## Introduction
+
+For our first project, we showcase what we have learnt in Python so far by addressing the conundrum of determining the ideal cryptocurrency investment strategy. The decentralised world has proved to be a domain of extreme growth, great opportunity and seemingly unlimited potential, while simultaneously presenting itself as a risky, highly volatile, unpredictable and underregulated landscape that can be dominated and swayed easily by invested interests.
+
+## Coding
+
+## Conclusions / Results
 
 ## References
 
@@ -65,3 +71,7 @@
 * **5** [ADA Coin](https://www.newsbtc.com/analysis/ada/why-cardano-ada-may-breakout-in-a-bull-run-to-1/)
 
 * **6** [SOL Coin](https://coinmarketcap.com/currencies/solana/)
+
+---
+
+*November 7th 2022*
