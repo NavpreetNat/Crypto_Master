@@ -72,6 +72,8 @@ For our first project, we showcase what we have learnt in Python so far by addre
 
 * **6** [SOL Coin](https://coinmarketcap.com/currencies/solana/)
 
+* **7** [Mountain](https://i.pinimg.com/originals/1d/3f/43/1d3f4336e6d4d0b3bf9b1d42948db42c.jpg)
+
 ---
 
 *November 7th 2022*
