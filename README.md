@@ -106,7 +106,7 @@ The plots that were generated during these analyses are as follows:
 
 ## API and New Library
 
-#### We used Pandas Data-Reader which is both an API and a new Library, as well as 'Panel' which is a library
+#### We used Pandas Data-Reader which is both an API and a new Library, as well as 'Panel' which is likewise a new Library
 
 ## References
 
