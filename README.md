@@ -12,9 +12,9 @@ Flora Zhao, Navpreet Nat and Sreeni Patnaik
 
 ## Instructions on How to Read Through the Work
 
-1. **Please begin with the jupyter notebook file titled "Crypto Master" which contains the retrospective analysis which has been conducted using historical data**
+**1.** **Please begin with the jupyter notebook file titled "crypto master" which contains the retrospective analysis which has been conducted using historical data**
 
-2. **Then, please access the jupyter notebook file titled "MonteCarlo_Interactive" which is an interactive Monte Carlo Simulator using pandas data-reader**
+**2.** **Then, please access the jupyter notebook file titled "MonteCarlo_Interactive" which is an interactive Monte Carlo Simulator using pandas data-reader**
 
 *All jupyter notebook files may be found in the subfolder titled "codes"*
 
@@ -27,8 +27,6 @@ We set out to find clarity in a murky cryptoverse by analysing past movements, p
 ### Motivation
 
 Cryptocurrency holds great potential for future economies, and despite its high volatility and fluctuating retail confidence, it certainly presents opportunities for the invention of tools that reassure investors by providing clearer market predictions and stability. We were eager to see whether we could set about creating such tools, and investigating the degree of commitment and labour required for their inception. Essentially, whether it was possible to make any meaningful predictions given the knowledge we have accumulated so far.
-
----
 
 ### Interests
 
@@ -106,7 +104,7 @@ The plots that were generated during these analyses are as follows:
 
 ## API and New Library
 
-#### We used Pandas Data-Reader which is both an API and a new Library, as well as Panel which is a library
+#### We used Pandas Data-Reader which is both an API and a new Library, as well as 'Panel' which is a library
 
 ## References
 
