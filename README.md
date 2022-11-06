@@ -80,6 +80,18 @@ The numbers were crunched, and the determination was made that you are infact mu
 
 Lump sum was found to trump DCA 80% of the time with the coins that we selected, with only ETH showing that DCA could have been an effective investment strategy. This comparison could have been more comprehensive if we compared the sharpe ratios against the coins' standard deviations by taking risk factors into consideration, however we were unable to cover these in this project due to time contraints.
 
+![](images/crypto_price_history.png)
+
+![](images/crypto_daily_return.png)
+
+![](images/crypto_cumulative_return.png)
+
+![](images/crypto_standard_deviation.png)
+
+![](images/crypto_sharpe_ratio.png)
+
+![](images/DCA_vs_LumpSum.png)
+
 ## Instructions on How to Read Through the Work
 
 1. **Please begin with the jupyter notebook file titled "Crypto Master" which contains the retrospective analysis which has been conducted using historical data**
