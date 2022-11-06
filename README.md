@@ -10,15 +10,25 @@
 
 Flora Zhao, Navpreet Nat and Sreeni Patnaik
 
+## Instructions on How to Read Through the Work
+
+1. **Please begin with the jupyter notebook file titled "Crypto Master" which contains the retrospective analysis which has been conducted using historical data**
+
+2. **Then, please access the jupyter notebook file titled "MonteCarlo_Interactive" which is an interactive Monte Carlo Simulator using pandas data-reader**
+
+*All jupyter notebook files may be found in the subfolder titled "codes"*
+
 ## Introduction
 
 For our first project, we showcase what we have learnt in Python so far by addressing the conundrum of determining the ideal cryptocurrency investment strategy. The decentralised world has proved to be a domain of extreme growth, great opportunity and seemingly unlimited potential, while simultaneously presenting itself as a risky, highly volatile, unpredictable and underregulated landscape that can be dominated and swayed easily by invested interests.
 
-We set out to find clarity in a murky cryptoverse by analysing past movements, predicting future movements, and determining for ourselves whether safer and more reliable investment strategies are possible in this turbulent domain.
+We set out to find clarity in a murky cryptoverse by analysing past movements, predicting future trends, and determining for ourselves whether safer and more reliable investment strategies are possible in these turbulent waters.
 
 ### Motivation
 
-Cryptocurrency holds great potential for future economies, and despite its high volatility and fluctuating retail confidence, it certainly presents opportunities for the invention of tools that reassure investors by providing clearer market predictions and stability.
+Cryptocurrency holds great potential for future economies, and despite its high volatility and fluctuating retail confidence, it certainly presents opportunities for the invention of tools that reassure investors by providing clearer market predictions and stability. We were eager to see whether we could set about creating such tools, and investigating the degree of commitment and labour required for their inception. Essentially, whether it was possible to make any meaningful predictions given the knowledge we have accumulated so far.
+
+---
 
 ### Interests
 
@@ -48,7 +58,7 @@ Cryptocurrency holds great potential for future economies, and despite its high 
 
 ### The Ideal Cryptocurrency Portfolio
 
-We decided that at least at the level of the portfolios' composition, it would be best to select coins that have a large market cap as this would ensure that volatility is less than other less 'stable' coins, and would thus be the safer option.
+We decided that, at least at the level of the portfolios' composition, it would be best to select coins that have a large market cap as this would ensure that volatility is less than other less 'stable' coins, and would thus be the safer option.
 
 The coins that we arrived at were;
 
@@ -68,17 +78,19 @@ The coins that we arrived at were;
 
 We found through our testing that while a MCS can be quite an effective tool for forecasting the potential price fluctuations of traditional stocks and equities, this applicability does not necessarily translate over to the cryptoverse. Through application of the interactive program that we developed, we found that the predictions had a variablity that was so vast that no meaningful conclusions could be drawn.
 
-It became clear that due to the close-to exponential nature of cryptocurrency price growth over its entire history, retrospective analyses becomes severely skewed to expect similar price movements going into the future, and while this could arguably be a possibility, it's obvious that far more sophisticated techniques are required to meaningfully predict price movements in the space.
+It became clear that due to the close-to exponential nature of cryptocurrency price growth over its entire history, retrospective analyses become severely skewed to expect similar price movements going into the future, and while such activity could arguably be a possibility, it's obvious that far more sophisticated techniques are required to meaningfully predict price movements in this space.
 
 ![](images/MCS_Output.png)
 
 ### Dollar-Cost Averaging vs Initial Lump-Sum Investment
 
-We were very surprised to discover that what may seemingly appear to be a worthwhile investment strategy in traditional use cases, i.e. Dollar-Cost Averaging (where you invest into an equity/stock incrementally over time as opposed to all at once), turned out to not be so fruitful in the domain of cryptocurrency investment.
+We were very surprised to discover that what may seemingly appear to be a worthwhile investment strategy in traditional use cases, i.e. Dollar-Cost Averaging (where you invest into an equity/stock incrementally over time as opposed to all at once), such techniques proved to not be so fruitful in the domain of cryptocurrency investment.
 
-The numbers were crunched, and the determination was made that you are infact much better off investing in crypto all at once with a lump-sum investment rather than incrementally over time. This analysis was done using historical data, and the supposition was such that an investor in the past would have invested in a cryptocurrency all at once, versus investing slowly over time as we cannot at this stage accurately project how such investment would look into the future.
+The numbers were crunched, and the determination was made that you are infact much better off investing in crypto all at once with a lump-sum investment rather than incrementally over time. This analysis was done using historical data, and the supposition was such that an investor in the past would have invested in a cryptocurrency in one go, versus investing slowly over time as we cannot at this stage accurately project how such investment would look into the future.
 
-Lump sum was found to trump DCA 80% of the time with the coins that we selected, with only ETH showing that DCA could have been an effective investment strategy. This comparison could have been more comprehensive if we compared the sharpe ratios against the coins' standard deviations by taking risk factors into consideration, however we were unable to cover these in this project due to time contraints.
+Lump sum was found to trump DCA 80% of the time with the coins that we selected, with only ETH showing that DCA could have been an effective investment strategy. This comparison could have also been more comprehensive if we compared the sharpe ratios against the coins' standard deviations, thus taking risk factors into consideration, however we were unable to cover these in this project due to time contraints.
+
+The plots that were generated during these analyses are as follows:
 
 ![](images/crypto_price_history.png)
 
@@ -91,14 +103,6 @@ Lump sum was found to trump DCA 80% of the time with the coins that we selected,
 ![](images/crypto_sharpe_ratio.png)
 
 ![](images/DCA_vs_LumpSum.png)
-
-## Instructions on How to Read Through the Work
-
-1. **Please begin with the jupyter notebook file titled "Crypto Master" which contains the retrospective analysis which has been conducted using historical data**
-
-2. **Then, please access the jupyter notebook file titled "MonteCarlo_Interactive" which is an interactive Monte Carlo Simulator using pandas data-reader**
-
-*All jupyter notebook files may be found in the subfolder titled "codes"*
 
 ## API and New Library
 
