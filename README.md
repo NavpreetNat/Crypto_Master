@@ -16,6 +16,8 @@ Flora Zhao, Navpreet Nat and Sreeni Patnaik
 
 **2.** **Then, please access the jupyter notebook file titled "MonteCarlo_Interactive" which is an interactive Monte Carlo Simulator using pandas data-reader**
 
+**3.** **The presentation may be found as the filename "Presentation.pptm"**
+
 *All jupyter notebook files may be found in the subfolder titled "codes"*
 
 ## Introduction
