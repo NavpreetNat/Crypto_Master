@@ -52,7 +52,17 @@ We decided that at least at the level of the portfolios' composition, it would b
 
 The coins that we arrived at were;
 
-BTC ![](images/BTC.jpg)     ETH ![](images/ETH.jpeg)     BNB![](images/BNB.png) XRP ![](images/XRP.jpg) ADA ![](images/ADA.jpeg) SOL ![](images/SOL.png)
+* ```BTC``` **or Bitcoin**
+
+* ```ETH``` **or Ethereum**
+
+* ```BNB``` **or Binance**
+
+* ```XRP``` **or Ripple**
+
+* ```ADA``` **or Cardano**
+
+* ```SOL``` **or Solana**
 
 ## References
 
