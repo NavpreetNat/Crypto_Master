@@ -1,5 +1,4 @@
 # Crypto_Master
-<<<<<<< HEAD
 
 ![](images/readme-image.jpg)
 
@@ -170,9 +169,8 @@ The plots that were generated during these analyses are as follows:
 ---
 
 *November 7th 2022*
-=======
-FinTech Project 1
 
+---
 
 
 
