@@ -1,6 +1,6 @@
 # Crypto_Master
 
-![](readme-image.jpg)
+![](images/readme-image.jpg)
 
 *Image Source: https://www.forbes.com/fintech/2021/#9ba2c8731a63*
 
@@ -14,9 +14,45 @@ Flora Zhao, Navpreet Nat and Sreeni Patnaik
 
 For our first project, we showcase what we have learnt in Python so far by addressing the conundrum of determining the ideal cryptocurrency investment strategy. The decentralised world has proved to be a domain of extreme growth, great opportunity and seemingly unlimited potential, while simultaneously presenting itself as a risky, highly volatile, unpredictable and underregulated landscape that can be dominated and swayed easily by invested interests.
 
-## Coding
+We set out to find clarity in a murky cryptoverse by analysing past movements, predicting future movements, and determining for ourselves whether safer and more reliable investment strategies are possible in this turbulent domain.
+
+### Motivation
+
+Cryptocurrency holds great potential for future economies, and despite its high volatility and fluctuating retail confidence, it certainly presents opportunities for the invention of tools that reassure investors by providing clearer market predictions and stability.
+
+### Interests
+
+* **Money and Financial Markets**
+
+* **Secure investments for long-term planning**
+
+* **Opportunities for financial growth**
+
+### Questions
+
+* **Is it possible to narrow in on the ideal cryptocurrency portfolio?**
+
+* **Will Monte Carlo Simulations be able to provide realistic future portfolio predictions?**
+
+* **Is Dollar-Cost Averaging an effective strategy for investing in crypto vs an initial Lump Sum?**
+
+### Core Focus
+
+1. Predict how cryptocurrency portfolios evolve over time by analyzing their history
+
+2. Discover the ideal cryptocurrency portfolio that will generate the greatest future returns
+
+3. Evaluate the effectiveness of Dollar-Cost Averaging vs an Initial Lump Sum as a crypto investment strategy
 
 ## Conclusions / Results
+
+### The Ideal Cryptocurrency Portfolio
+
+We decided that at least at the level of the portfolios' composition, it would be best to select coins that have a large market cap as this would ensure that volatility is less than other less 'stable' coins, and would thus be the safer option.
+
+The coins that we arrived at were;
+
+BTC ![](images/BTC.jpg)     ETH ![](images/ETH.jpeg)     BNB![](images/BNB.png) XRP ![](images/XRP.jpg) ADA ![](images/ADA.jpeg) SOL ![](images/SOL.png)
 
 ## References
 
