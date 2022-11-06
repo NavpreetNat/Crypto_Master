@@ -16,7 +16,9 @@ Flora Zhao, Navpreet Nat and Sreeni Patnaik
 
 **2.** **Then, please access the jupyter notebook file titled "MonteCarlo_Interactive" which is an interactive Monte Carlo Simulator using pandas data-reader**
 
-**3.** **The presentation may be found as the filename "Presentation.pptm"**
+**3.** **The presentation may be found under the filename "Presentation.pptm"**
+
+**4.** **Finally, we wanted to incorporate the Python 'Panels' library into our code however were unable to do so due to time contraints, and so we have instead included the headway we've made so far. While it is not a comprehensive analysis, it does display the functionality of the Panels library and may be found as the jupyter notebook file titled "Crypto_Dashboard"**
 
 *All jupyter notebook files may be found in the subfolder titled "codes"*
 
@@ -106,7 +108,7 @@ The plots that were generated during these analyses are as follows:
 
 ## API and New Library
 
-#### We used Pandas Data-Reader which is both an API and a new Library, as well as 'Panel' which is likewise a new Library
+#### We used Pandas Data-Reader which is both an API and a new Library
 
 ## References
 
