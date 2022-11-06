@@ -1,5 +1,4 @@
 # Crypto_Master
-<<<<<<< HEAD
 
 ![](images/readme-image.jpg)
 
@@ -170,36 +169,5 @@ The plots that were generated during these analyses are as follows:
 ---
 
 *November 7th 2022*
-=======
-FinTech Project 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-References:
-- https://finance.yahoo.com/cryptocurrencies
-- https://support.google.com/docs/answer/3093281
-- https://stackoverflow.com/questions/45081166/get-btc-prices-on-google-sheets-from-google-finance
->>>>>>> main
+---
